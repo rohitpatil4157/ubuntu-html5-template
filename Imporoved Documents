@@ -10,3 +10,5 @@ Options for building:
 
 - Build on the command line with "click build ."
 
+- App Should Support any Template of html5.
+
